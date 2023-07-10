@@ -1,4 +1,4 @@
-# Movie_databases
+# Movie_databases_SQL
 
 In this repository we work explicitly with SQL and the Google Database. Here we answer different questions presented in the Notebooks with the help of SQL. Here you can see a Dataset of the movies that have been published.
 
